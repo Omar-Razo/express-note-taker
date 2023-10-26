@@ -34,11 +34,15 @@ The following is a preview of the final product:
 
 ![a gridlist of existing notes is present on the left hand side of the page. each note has a delete button. The right hand/majority of the page consists of a 'new note' entry where the user can fill in a title and body for their new note](./chall%2011%20pic%202.PNG)
 
+The latest version of the webpage is active at:
+
+https://wk-11-express-note-taker-e35a55986323.herokuapp.com/
+
 ## Installation
 
 App is hosted on Heroku and can be used with no installation.
 
-Running the app locally requires terminal commands `npm install` for dependencies and `npm start` (provided script) to get the server running. The user will see console message that the app is listening at a particular port and the address at which the app can be reached
+Running the app locally requires terminal commands `npm install` for dependencies and `npm start` (provided script) to get the server running. The user will see a console message that the app is listening at a particular port and the address at which the app can be reached
 
 ## Credits
 
