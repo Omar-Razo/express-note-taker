@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Test note",
+        "text": "Here we have a test note",
+        "id": "1f1f102a-aa24-4f74-96c3-7580a23a91cb"
+    },
+    {
+        "title": "Watch Party",
+        "text": "Get everyone to watch Rocky Horror Picture Show soon!\n\nWhen in doubt, do the Time Warp.",
+        "id": "d894f8e0-e800-4c5f-b079-9e0c71434405"
+    },
+    {
+        "title": "Sara's Keys",
+        "text": "Help Sara find her keys",
+        "id": "50345aa0-a5f7-44bb-92de-22c3757bd487"
+    }
+]
